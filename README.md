@@ -3,7 +3,7 @@
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 
-frontend repo :
+frontend repo :https://github.com/Rudra2004mahata/MyTube.git
 backend : https://backend-youtube-lubk.onrender.com
 
 ## Get started
